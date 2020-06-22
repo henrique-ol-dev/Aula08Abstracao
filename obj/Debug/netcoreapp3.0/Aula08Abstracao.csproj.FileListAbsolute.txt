@@ -1,0 +1,11 @@
+C:\Users\senai\Desktop\Aula08Abstracao\bin\Debug\netcoreapp3.0\Aula08Abstracao.exe
+C:\Users\senai\Desktop\Aula08Abstracao\bin\Debug\netcoreapp3.0\Aula08Abstracao.deps.json
+C:\Users\senai\Desktop\Aula08Abstracao\bin\Debug\netcoreapp3.0\Aula08Abstracao.runtimeconfig.json
+C:\Users\senai\Desktop\Aula08Abstracao\bin\Debug\netcoreapp3.0\Aula08Abstracao.runtimeconfig.dev.json
+C:\Users\senai\Desktop\Aula08Abstracao\bin\Debug\netcoreapp3.0\Aula08Abstracao.dll
+C:\Users\senai\Desktop\Aula08Abstracao\bin\Debug\netcoreapp3.0\Aula08Abstracao.pdb
+C:\Users\senai\Desktop\Aula08Abstracao\obj\Debug\netcoreapp3.0\Aula08Abstracao.csprojAssemblyReference.cache
+C:\Users\senai\Desktop\Aula08Abstracao\obj\Debug\netcoreapp3.0\Aula08Abstracao.AssemblyInfoInputs.cache
+C:\Users\senai\Desktop\Aula08Abstracao\obj\Debug\netcoreapp3.0\Aula08Abstracao.AssemblyInfo.cs
+C:\Users\senai\Desktop\Aula08Abstracao\obj\Debug\netcoreapp3.0\Aula08Abstracao.dll
+C:\Users\senai\Desktop\Aula08Abstracao\obj\Debug\netcoreapp3.0\Aula08Abstracao.pdb
